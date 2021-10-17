@@ -1,0 +1,29 @@
+11ROATIVO Rondônia                                  RONDONIA                                       1  237590,5471
+12ACATIVO Acre                                      ACRE                                           1  164123,0401
+13AMATIVO Amazonas                                  AMAZONAS                                       1 1559159,1481
+14RRATIVO Roraima                                   RORAIMA                                        1  224300,5061
+15PAATIVO Pará                                      PARA                                           1 1247954,6661
+16APATIVO Amapá                                     AMAPA                                          1  142828,5211
+17TOATIVO Tocantins                                 TOCANTINS                                      1  277720,5201
+21MAATIVO Maranhão                                  MARANHAO                                       2  331937,4501
+22PIATIVO Piauí                                     PIAUI                                          2  251577,7381
+23CEATIVO Ceará                                     CEARA                                          2  148920,4721
+24RNATIVO Rio Grande do Norte                       RIO GRANDE DO NORTE                            2   52811,0471
+25PBATIVO Paraíba                                   PARAIBA                                        2   56469,7781
+26PEATIVO Pernambuco                                PERNAMBUCO                                  ,202   98148,3231
+27ALATIVO Alagoas                                   ALAGOAS                                        2   27778,5061
+28SEATIVO Sergipe                                   SERGIPE                                        2   21915,1161
+29BAATIVO Bahia                                     BAHIA                                          2  564733,1771
+31MGATIVO Minas Gerais                              MINAS GERAIS                                   3  586522,1221
+32ESATIVO Espírito Santo                            ESPIRITO SANTO                                 3   46095,5831
+33RJATIVO Rio de Janeiro                            RIO DE JANEIRO                                 3   43780,1721
+35SPATIVO São Paulo                                 SAO PAULO                                      3  248222,8011
+41PRATIVO Paraná                                    PARANA                                         4  199307,9221
+42SCATIVO Santa Catarina                            SANTA CATARINA                                 4   95736,1651
+43RSATIVO Rio Grande do Sul                         RIO GRANDE DO SUL                              4  281730,2231
+50MSATIVO Mato Grosso do Sul                        MATO GROSSO DO SUL                             5  357145,5321
+51MTATIVO Mato Grosso                               MATO GROSSO                                    5  903366,1921
+52GOATIVO Goiás                                     GOIAS                                          5  340111,7831
+53DFATIVO Distrito Federal                          DISTRITO FEDERAL                               5    5779,9991
+00IGIGNOR Ignorado/exterior                         IGNORADO/EXTERIOR                              0       0,0008
+20FNEXTINTTerritório Federal de Fernando de Noronha TERRITORIO FEDERAL DE FERNANDO DE NORONHA 26   2       0,0006
